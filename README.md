@@ -6,11 +6,11 @@ hello and welcome to my github profile, currently there's not much here, but do 
 
 <details><summary> Who are you? </summary>
 
- known as: KazukiDevNull, kazuki, kazu, KDN
- Real name: i am sure youl would like that.
- From: Norway
- Pronouns: They/them/She/Her
- Contact: look on the left side of the screen under my bio 
+ - known as: KazukiDevNull, kazuki, kazu, KDN
+ - Real name: i am sure youl would like that.
+ - From: Norway
+ - Pronouns: They/them/She/Her
+ - Contact: look on the left side of the screen under my bio 
 
 </details>
 
